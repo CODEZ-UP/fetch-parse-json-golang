@@ -1,0 +1,1 @@
+### Fetch & Parse Json Data from a HTTP Enpoint in Golang
